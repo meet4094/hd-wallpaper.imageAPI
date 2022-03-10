@@ -11,6 +11,6 @@ app.get("/category", (req,res) => {
     res.send(importData);
 });
 
-app.listen(port, () =>{
-    console.log(`Example app is listing on port http://localhost:${port}`)
+app.listen(port, () => {
+    console.log(`Example app is listing on port http://localhost:${port}`);
 });
