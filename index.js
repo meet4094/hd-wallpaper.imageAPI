@@ -7,7 +7,7 @@ app.get("/", (req,res) => {
     res.send("Hello word")
 });
 
-app.post("/category", (req,res) => {
+app.get("/category", (req,res) => {
     res.send(importData);
 });
 
