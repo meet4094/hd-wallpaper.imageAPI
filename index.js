@@ -1,13 +1,13 @@
 const expree = require("express");
 const app = expree();
 const importData = require("./data.json");
-let port = process.env.PORT || 3000;
+let port = process.env.PORT || 5000;
 
 app.get("/", (req,res) => {
     res.send("Hello word")
 });
 
-app.get("/category", (req,res) => {
+app.post("/category", (req,res) => {
     res.send(importData);
 });
 
