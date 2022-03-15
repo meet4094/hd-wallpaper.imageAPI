@@ -1,6 +1,166 @@
 [
     {
         "id": 1,
+        "category": "3D / Abstract",
+        "image":"https://images.pexels.com/photos/5011647/pexels-photo-5011647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+        {
+        "id": 2,
+        "category": "3D / Abstract",
+        "image": "https://images.pexels.com/photos/8347501/pexels-photo-8347501.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 3,
+        "category": "3D / Abstract",
+        "image": "https://images.pexels.com/photos/9436715/pexels-photo-9436715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 4,
+        "category": "3D / Abstract",
+        "image": "https://images.pexels.com/photos/9934462/pexels-photo-9934462.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 5,
+        "category": "3D / Abstract",
+        "image": "https://images.pexels.com/photos/5109305/pexels-photo-5109305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 6,
+        "category": "3D / Abstract",
+        "image": "https://images.pexels.com/photos/4829745/pexels-photo-4829745.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 7,
+        "category": "3D / Abstract",
+        "image": "https://images.pexels.com/photos/4767063/pexels-photo-4767063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 8,
+        "category": "3D / Abstract",
+        "image": "https://images.pexels.com/photos/6807303/pexels-photo-6807303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 9,
+        "category": "3D / Abstract",
+        "image": "https://images.pexels.com/photos/4825215/pexels-photo-4825215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 10,
+        "category": "3D / Abstract",
+        "image": "https://images.pexels.com/photos/4687759/pexels-photo-4687759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 11,
+        "category": "3D / Abstract",
+        "image": "https://images.pexels.com/photos/4257615/pexels-photo-4257615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 12,
+        "category": "3D / Abstract",
+        "image": "https://images.pexels.com/photos/6498780/pexels-photo-6498780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 13,
+        "category": "3D / Abstract",
+        "image": "https://images.pexels.com/photos/4924716/pexels-photo-4924716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 14,
+        "category": "3D / Abstract",
+        "image": "https://images.pexels.com/photos/7232912/pexels-photo-7232912.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 15,
+        "category": "3D / Abstract",
+        "image": "https://images.pexels.com/photos/572897/pexels-photo-572897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 16,
+        "category": "3D / Abstract",
+        "image": "https://images.pexels.com/photos/459301/pexels-photo-459301.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 1,
+        "category": "Animals / Birds",
+        "image":"https://images.pexels.com/photos/4036162/pexels-photo-4036162.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+        {
+        "id": 2,
+        "category": "Animals / Birds",
+        "image": "https://images.pexels.com/photos/11106593/pexels-photo-11106593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 3,
+        "category": "Animals / Birds",
+        "image": "https://images.pexels.com/photos/760984/pexels-photo-760984.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 4,
+        "category": "Animals / Birds",
+        "image": "https://images.pexels.com/photos/52509/penguins-emperor-antarctic-life-52509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 5,
+        "category": "Animals / Birds",
+        "image": "https://images.pexels.com/photos/37833/rainbow-lorikeet-parrots-australia-rainbow-37833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 6,
+        "category": "Animals / Birds",
+        "image": "https://images.pexels.com/photos/3551498/pexels-photo-3551498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 7,
+        "category": "Animals / Birds",
+        "image": "https://images.pexels.com/photos/65289/polar-bear-bear-teddy-sleep-65289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 8,
+        "category": "Animals / Birds",
+        "image": "https://images.pexels.com/photos/4577836/pexels-photo-4577836.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 9,
+        "category": "Animals / Birds",
+        "image": "https://images.pexels.com/photos/459326/pexels-photo-459326.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 10,
+        "category": "Animals / Birds",
+        "image": "https://images.pexels.com/photos/45170/kittens-cat-cat-puppy-rush-45170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 11,
+        "category": "Animals / Birds",
+        "image": "https://images.pexels.com/photos/47547/squirrel-animal-cute-rodents-47547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 12,
+        "category": "Animals / Birds",
+        "image": "https://images.pexels.com/photos/213399/pexels-photo-213399.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 13,
+        "category": "Animals / Birds",
+        "image": "https://images.pexels.com/photos/7722519/pexels-photo-7722519.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 14,
+        "category": "Animals / Birds",
+        "image": "https://images.pexels.com/photos/247376/pexels-photo-247376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 15,
+        "category": "Animals / Birds",
+        "image": "https://images.pexels.com/photos/2091074/pexels-photo-2091074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 16,
+        "category": "Animals / Birds",
+        "image": "https://images.pexels.com/photos/981893/pexels-photo-981893.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 1,
         "category": "Beach",
         "image": "https://images.pexels.com/photos/1174732/pexels-photo-1174732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
