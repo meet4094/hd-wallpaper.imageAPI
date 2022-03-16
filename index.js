@@ -12,10 +12,6 @@ const corsOptions = {
 
 app.use(cors(corsOptions));
 
-app.get("/", (req,res) => {
-    res.send("Hello word")
-});
-
 app.get("/category", (req,res) => {
     res.send(importData);
 });
