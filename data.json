@@ -238,5 +238,85 @@
         "id": 16,
         "category": "Beach",
         "image": "https://images.pexels.com/photos/219998/pexels-photo-219998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 1,
+        "category": "Black",
+        "image":"https://images.pexels.com/photos/1097456/pexels-photo-1097456.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+        {
+        "id": 2,
+        "category": "Black",
+        "image": "https://images.pexels.com/photos/1841841/pexels-photo-1841841.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 3,
+        "category": "Black",
+        "image": "https://images.pexels.com/photos/1529881/pexels-photo-1529881.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 4,
+        "category": "Black",
+        "image":"https://images.pexels.com/photos/633409/pexels-photo-633409.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 5,
+        "category": "Black",
+        "image": "https://images.pexels.com/photos/426444/pexels-photo-426444.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 6,
+        "category": "Black",
+        "image": "https://images.pexels.com/photos/1040499/pexels-photo-1040499.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 7,
+        "category": "Black",
+        "image": "https://images.pexels.com/photos/35016/soap-bubble-colorful-ball-soapy-water.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 8,
+        "category": "Black",
+        "image": "https://images.pexels.com/photos/1010973/pexels-photo-1010973.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 9,
+        "category": "Black",
+        "image": "https://images.pexels.com/photos/5598292/pexels-photo-5598292.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 10,
+        "category": "Black",
+        "image": "https://images.pexels.com/photos/236296/pexels-photo-236296.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 11,
+        "category": "Black",
+        "image": "https://images.pexels.com/photos/56034/alsatian-black-eyes-german-shepherd-56034.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 12,
+        "category": "Black",
+        "image": "https://images.pexels.com/photos/970517/pexels-photo-970517.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 13,
+        "category": "Black",
+        "image": "https://images.pexels.com/photos/1480690/pexels-photo-1480690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 14,
+        "category": "Black",
+        "image": "https://images.pexels.com/photos/682588/pexels-photo-682588.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 15,
+        "category": "Black",
+        "image": "https://images.pexels.com/photos/5199173/pexels-photo-5199173.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 16,
+        "category": "Black",
+        "image": "https://images.pexels.com/photos/1097456/pexels-photo-1097456.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     }
 ]
