@@ -318,5 +318,86 @@
         "id": 16,
         "category": "Black",
         "image": "https://images.pexels.com/photos/6406/sun-moon-eclipse-march-2015.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 1,
+        "category": "Bikes",
+        "image":"https://images.pexels.com/photos/315191/pexels-photo-315191.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+        {
+        "id": 2,
+        "category": "Bikes",
+        "image": "https://images.pexels.com/photos/2317475/pexels-photo-2317475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 3,
+        "category": "Bikes",
+        "image": "https://images.pexels.com/photos/289869/pexels-photo-289869.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 4,
+        "category": "Bikes",
+        "image":"https://images.pexels.com/photos/2747540/pexels-photo-2747540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 5,
+        "category": "Bikes",
+        "image": "https://images.pexels.com/photos/161407/church-bike-couple-models-retro-ferry-161407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 6,
+        "category": "Bikes",
+        "image": "https://images.pexels.com/photos/2806360/pexels-photo-2806360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 7,
+        "category": "Bikes",
+        "image": "https://images.pexels.com/photos/3046023/pexels-photo-3046023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 8,
+        "category": "Bikes",
+        "image": "https://images.pexels.com/photos/2070028/pexels-photo-2070028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 9,
+        "category": "Bikes",
+        "image": "https://images.pexels.com/photos/612886/pexels-photo-612886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 10,
+        "category": "Bikes",
+        "image": "https://images.pexels.com/photos/2393816/pexels-photo-2393816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 11,
+        "category": "Bikes",
+        "image": "https://images.pexels.com/photos/1413412/pexels-photo-1413412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 12,
+        "category": "Bikes",
+        "image": "https://images.pexels.com/photos/1119796/pexels-photo-1119796.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 13,
+        "category": "Bikes",
+        "image": "https://images.pexels.com/photos/1191109/pexels-photo-1191109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 14,
+        "category": "Bikes",
+        "image": "https://images.pexels.com/photos/750841/pexels-photo-750841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 15,
+        "category": "Bikes",
+        "image": "https://images.pexels.com/photos/296735/pexels-photo-296735.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 16,
+        "category": "Bikes",
+        "image": "https://images.pexels.com/photos/159192/vespa-roller-motor-scooter-cult-159192.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
     }
+    
 ]
