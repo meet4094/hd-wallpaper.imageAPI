@@ -20,66 +20,6 @@
         "image": "https://images.pexels.com/photos/9934462/pexels-photo-9934462.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
-        "id": 5,
-        "category": "3D / Abstract",
-        "image": "https://images.pexels.com/photos/5109305/pexels-photo-5109305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 6,
-        "category": "3D / Abstract",
-        "image": "https://images.pexels.com/photos/4829745/pexels-photo-4829745.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 7,
-        "category": "3D / Abstract",
-        "image": "https://images.pexels.com/photos/4767063/pexels-photo-4767063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 8,
-        "category": "3D / Abstract",
-        "image": "https://images.pexels.com/photos/6807303/pexels-photo-6807303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 9,
-        "category": "3D / Abstract",
-        "image": "https://images.pexels.com/photos/4825215/pexels-photo-4825215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 10,
-        "category": "3D / Abstract",
-        "image": "https://images.pexels.com/photos/4687759/pexels-photo-4687759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 11,
-        "category": "3D / Abstract",
-        "image": "https://images.pexels.com/photos/4257615/pexels-photo-4257615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 12,
-        "category": "3D / Abstract",
-        "image": "https://images.pexels.com/photos/6498780/pexels-photo-6498780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 13,
-        "category": "3D / Abstract",
-        "image": "https://images.pexels.com/photos/4924716/pexels-photo-4924716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 14,
-        "category": "3D / Abstract",
-        "image": "https://images.pexels.com/photos/3854821/pexels-photo-3854821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 15,
-        "category": "3D / Abstract",
-        "image": "https://images.pexels.com/photos/572897/pexels-photo-572897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 16,
-        "category": "3D / Abstract",
-        "image": "https://images.pexels.com/photos/4158594/pexels-photo-4158594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
         "id": 1,
         "category": "Animals / Birds",
         "image":"https://images.pexels.com/photos/52961/antelope-nature-flowers-meadow-52961.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
@@ -99,66 +39,7 @@
         "category": "Animals / Birds",
         "image": "https://images.pexels.com/photos/52509/penguins-emperor-antarctic-life-52509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
-    {
-        "id": 5,
-        "category": "Animals / Birds",
-        "image": "https://images.pexels.com/photos/37833/rainbow-lorikeet-parrots-australia-rainbow-37833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 6,
-        "category": "Animals / Birds",
-        "image": "https://images.pexels.com/photos/3551498/pexels-photo-3551498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 7,
-        "category": "Animals / Birds",
-        "image": "https://images.pexels.com/photos/65289/polar-bear-bear-teddy-sleep-65289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 8,
-        "category": "Animals / Birds",
-        "image": "https://images.pexels.com/photos/4577836/pexels-photo-4577836.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 9,
-        "category": "Animals / Birds",
-        "image": "https://images.pexels.com/photos/459326/pexels-photo-459326.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 10,
-        "category": "Animals / Birds",
-        "image": "https://images.pexels.com/photos/45170/kittens-cat-cat-puppy-rush-45170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 11,
-        "category": "Animals / Birds",
-        "image": "https://images.pexels.com/photos/47547/squirrel-animal-cute-rodents-47547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 12,
-        "category": "Animals / Birds",
-        "image": "https://images.pexels.com/photos/213399/pexels-photo-213399.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 13,
-        "category": "Animals / Birds",
-        "image": "https://images.pexels.com/photos/7722519/pexels-photo-7722519.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 14,
-        "category": "Animals / Birds",
-        "image": "https://images.pexels.com/photos/247376/pexels-photo-247376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 15,
-        "category": "Animals / Birds",
-        "image": "https://images.pexels.com/photos/2091074/pexels-photo-2091074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 16,
-        "category": "Animals / Birds",
-        "image": "https://images.pexels.com/photos/981893/pexels-photo-981893.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
+    
     {
         "id": 1,
         "category": "Beach",
@@ -179,66 +60,7 @@
         "category": "Beach",
         "image": "https://images.pexels.com/photos/1705254/pexels-photo-1705254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
-    {
-        "id": 5,
-        "category": "Beach",
-        "image": "https://images.pexels.com/photos/1172518/pexels-photo-1172518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 6,
-        "category": "Beach",
-        "image": "https://images.pexels.com/photos/3233371/pexels-photo-3233371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 7,
-        "category": "Beach",
-        "image": "https://images.pexels.com/photos/3601422/pexels-photo-3601422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 8,
-        "category": "Beach",
-        "image": "https://images.pexels.com/photos/2538225/pexels-photo-2538225.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 9,
-        "category": "Beach",
-        "image": "https://images.pexels.com/photos/4318913/pexels-photo-4318913.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 10,
-        "category": "Beach",
-        "image": "https://images.pexels.com/photos/1914982/pexels-photo-1914982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 11,
-        "category": "Beach",
-        "image": "https://images.pexels.com/photos/67384/pexels-photo-67384.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 12,
-        "category": "Beach",
-        "image": "https://images.pexels.com/photos/4609731/pexels-photo-4609731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 13,
-        "category": "Beach",
-        "image": "https://images.pexels.com/photos/457882/pexels-photo-457882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 14,
-        "category": "Beach",
-        "image": "https://images.pexels.com/photos/127673/pexels-photo-127673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 15,
-        "category": "Beach",
-        "image": "https://images.pexels.com/photos/1049298/pexels-photo-1049298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 16,
-        "category": "Beach",
-        "image": "https://images.pexels.com/photos/219998/pexels-photo-219998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
+    
     {
         "id": 1,
         "category": "Black",
@@ -259,66 +81,7 @@
         "category": "Black",
         "image":"https://images.pexels.com/photos/633409/pexels-photo-633409.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
-    {
-        "id": 5,
-        "category": "Black",
-        "image": "https://images.pexels.com/photos/426444/pexels-photo-426444.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": 6,
-        "category": "Black",
-        "image": "https://images.pexels.com/photos/1040499/pexels-photo-1040499.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": 7,
-        "category": "Black",
-        "image": "https://images.pexels.com/photos/35016/soap-bubble-colorful-ball-soapy-water.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": 8,
-        "category": "Black",
-        "image": "https://images.pexels.com/photos/1010973/pexels-photo-1010973.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": 9,
-        "category": "Black",
-        "image": "https://images.pexels.com/photos/5598292/pexels-photo-5598292.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": 10,
-        "category": "Black",
-        "image": "https://images.pexels.com/photos/236296/pexels-photo-236296.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": 11,
-        "category": "Black",
-        "image": "https://images.pexels.com/photos/56034/alsatian-black-eyes-german-shepherd-56034.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": 12,
-        "category": "Black",
-        "image": "https://images.pexels.com/photos/970517/pexels-photo-970517.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": 13,
-        "category": "Black",
-        "image": "https://images.pexels.com/photos/1480690/pexels-photo-1480690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": 14,
-        "category": "Black",
-        "image": "https://images.pexels.com/photos/682588/pexels-photo-682588.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": 15,
-        "category": "Black",
-        "image": "https://images.pexels.com/photos/5199173/pexels-photo-5199173.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": 16,
-        "category": "Black",
-        "image": "https://images.pexels.com/photos/6406/sun-moon-eclipse-march-2015.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
+    
     {
         "id": 1,
         "category": "Bikes",
@@ -339,66 +102,7 @@
         "category": "Bikes",
         "image":"https://images.pexels.com/photos/2747540/pexels-photo-2747540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
-    {
-        "id": 5,
-        "category": "Bikes",
-        "image": "https://images.pexels.com/photos/161407/church-bike-couple-models-retro-ferry-161407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 6,
-        "category": "Bikes",
-        "image": "https://images.pexels.com/photos/2806360/pexels-photo-2806360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 7,
-        "category": "Bikes",
-        "image": "https://images.pexels.com/photos/3046023/pexels-photo-3046023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 8,
-        "category": "Bikes",
-        "image": "https://images.pexels.com/photos/2070028/pexels-photo-2070028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 9,
-        "category": "Bikes",
-        "image": "https://images.pexels.com/photos/612886/pexels-photo-612886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 10,
-        "category": "Bikes",
-        "image": "https://images.pexels.com/photos/2393816/pexels-photo-2393816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 11,
-        "category": "Bikes",
-        "image": "https://images.pexels.com/photos/1413412/pexels-photo-1413412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 12,
-        "category": "Bikes",
-        "image": "https://images.pexels.com/photos/1119796/pexels-photo-1119796.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 13,
-        "category": "Bikes",
-        "image": "https://images.pexels.com/photos/1191109/pexels-photo-1191109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 14,
-        "category": "Bikes",
-        "image": "https://images.pexels.com/photos/750841/pexels-photo-750841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 15,
-        "category": "Bikes",
-        "image": "https://images.pexels.com/photos/296735/pexels-photo-296735.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 16,
-        "category": "Bikes",
-        "image": "https://images.pexels.com/photos/159192/vespa-roller-motor-scooter-cult-159192.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
+    
     {
         "id": 1,
         "category": "Cars",
@@ -419,66 +123,7 @@
         "category": "Cars",
         "image":"https://images.pexels.com/photos/1149137/pexels-photo-1149137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
-    {
-        "id": 5,
-        "category": "Cars",
-        "image": "https://images.pexels.com/photos/39855/lamborghini-brno-racing-car-automobiles-39855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 6,
-        "category": "Cars",
-        "image": "https://images.pexels.com/photos/1077785/pexels-photo-1077785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 7,
-        "category": "Cars",
-        "image": "https://images.pexels.com/photos/3311574/pexels-photo-3311574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 8,
-        "category": "Cars",
-        "image": "https://images.pexels.com/photos/831475/pexels-photo-831475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 9,
-        "category": "Cars",
-        "image": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 10,
-        "category": "Cars",
-        "image": "https://images.pexels.com/photos/909907/pexels-photo-909907.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 11,
-        "category": "Cars",
-        "image": "https://images.pexels.com/photos/116675/pexels-photo-116675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 12,
-        "category": "Cars",
-        "image": "https://images.pexels.com/photos/242125/pexels-photo-242125.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 13,
-        "category": "Cars",
-        "image": "https://images.pexels.com/photos/3422964/pexels-photo-3422964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 14,
-        "category": "Cars",
-        "image": "https://images.pexels.com/photos/3136673/pexels-photo-3136673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 15,
-        "category": "Cars",
-        "image": "https://images.pexels.com/photos/3802510/pexels-photo-3802510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 16,
-        "category": "Cars",
-        "image": "https://images.pexels.com/photos/1592384/pexels-photo-1592384.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
+    
     {
         "id": 1,
         "category": "Celebrations",
@@ -499,66 +144,7 @@
         "category": "Celebrations",
         "image":"https://images.pexels.com/photos/7281808/pexels-photo-7281808.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
     },
-    {
-        "id": 5,
-        "category": "Celebrations",
-        "image": "https://images.pexels.com/photos/2902322/pexels-photo-2902322.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 6,
-        "category": "Celebrations",
-        "image": "https://images.pexels.com/photos/4139746/pexels-photo-4139746.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 7,
-        "category": "Celebrations",
-        "image": "https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 8,
-        "category": "Celebrations",
-        "image": "https://images.pexels.com/photos/1537636/pexels-photo-1537636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 9,
-        "category": "Celebrations",
-        "image": "https://images.pexels.com/photos/17796/christmas-xmas-gifts-presents.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 10,
-        "category": "Celebrations",
-        "image": "https://images.pexels.com/photos/9147256/pexels-photo-9147256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 11,
-        "category": "Celebrations",
-        "image": "https://images.pexels.com/photos/3171837/pexels-photo-3171837.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 12,
-        "category": "Celebrations",
-        "image": "https://images.pexels.com/photos/7683158/pexels-photo-7683158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 13,
-        "category": "Celebrations",
-        "image": "https://images.pexels.com/photos/433452/pexels-photo-433452.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 14,
-        "category": "Celebrations",
-        "image": "https://images.pexels.com/photos/1684187/pexels-photo-1684187.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 15,
-        "category": "Celebrations",
-        "image": "https://images.pexels.com/photos/6405762/pexels-photo-6405762.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 16,
-        "category": "Celebrations",
-        "image": "https://images.pexels.com/photos/1123254/pexels-photo-1123254.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
+    
     {
         "id": 1,
         "category": "Creative / Graphics",
@@ -579,66 +165,7 @@
         "category": "Creative / Graphics",
         "image":"https://images.pexels.com/photos/1935370/pexels-photo-1935370.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
-    {
-        "id": 5,
-        "category": "Creative / Graphics",
-        "image": "https://images.pexels.com/photos/673648/pexels-photo-673648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 6,
-        "category": "Creative / Graphics",
-        "image": "https://images.pexels.com/photos/2902536/pexels-photo-2902536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 7,
-        "category": "Creative / Graphics",
-        "image": "https://images.pexels.com/photos/1083633/pexels-photo-1083633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 8,
-        "category": "Creative / Graphics",
-        "image": "https://images.pexels.com/photos/1070534/pexels-photo-1070534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 9,
-        "category": "Creative / Graphics",
-        "image": "https://images.pexels.com/photos/2935244/pexels-photo-2935244.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 10,
-        "category": "Creative / Graphics",
-        "image": "https://images.pexels.com/photos/1722196/pexels-photo-1722196.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 11,
-        "category": "Creative / Graphics",
-        "image": "https://images.pexels.com/photos/826114/pexels-photo-826114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 12,
-        "category": "Creative / Graphics",
-        "image": "https://images.pexels.com/photos/1061135/pexels-photo-1061135.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 13,
-        "category": "Creative / Graphics",
-        "image": "https://images.pexels.com/photos/2324808/pexels-photo-2324808.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 14,
-        "category": "Creative / Graphics",
-        "image": "https://images.pexels.com/photos/704987/pexels-photo-704987.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 15,
-        "category": "Creative / Graphics",
-        "image": "https://images.pexels.com/photos/4965825/pexels-photo-4965825.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 16,
-        "category": "Creative / Graphics",
-        "image": "https://images.pexels.com/photos/1742783/pexels-photo-1742783.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
+    
     {
         "id": 1,
         "category": "Cute",
@@ -659,66 +186,7 @@
         "category": "Cute",
         "image":"https://images.pexels.com/photos/101537/baby-boy-hat-covered-101537.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
-    {
-        "id": 5,
-        "category": "Cute",
-        "image": "https://images.pexels.com/photos/207983/pexels-photo-207983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 6,
-        "category": "Cute",
-        "image": "https://images.pexels.com/photos/52718/angel-wings-love-white-52718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 7,
-        "category": "Cute",
-        "image": "https://images.pexels.com/photos/920220/pexels-photo-920220.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 8,
-        "category": "Cute",
-        "image": "https://images.pexels.com/photos/48794/boy-walking-teddy-bear-child-48794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 9,
-        "category": "Cute",
-        "image": "https://images.pexels.com/photos/64219/dolphin-marine-mammals-water-sea-64219.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 10,
-        "category": "Cute",
-        "image": "https://images.pexels.com/photos/60023/baboons-monkey-mammal-freeze-60023.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 11,
-        "category": "Cute",
-        "image": "https://images.pexels.com/photos/1049622/pexels-photo-1049622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 12,
-        "category": "Cute",
-        "image": "https://images.pexels.com/photos/157465/pexels-photo-157465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 13,
-        "category": "Cute",
-        "image": "https://images.pexels.com/photos/248280/pexels-photo-248280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 14,
-        "category": "Cute",
-        "image": "https://images.pexels.com/photos/288621/pexels-photo-288621.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 15,
-        "category": "Cute",
-        "image": "https://images.pexels.com/photos/266004/pexels-photo-266004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 16,
-        "category": "Cute",
-        "image": "https://images.pexels.com/photos/421884/pexels-photo-421884.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
+    
     {
         "id": 1,
         "category": "Games",
@@ -739,66 +207,7 @@
         "category": "Games",
         "image":"https://images.pexels.com/photos/262333/pexels-photo-262333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
-    {
-        "id": 5,
-        "category": "Games",
-        "image": "https://images.pexels.com/photos/1500610/pexels-photo-1500610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 6,
-        "category": "Games",
-        "image": "https://images.pexels.com/photos/163064/play-stone-network-networked-interactive-163064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 7,
-        "category": "Games",
-        "image": "https://images.pexels.com/photos/139167/pexels-photo-139167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 8,
-        "category": "Games",
-        "image": "https://images.pexels.com/photos/1293265/pexels-photo-1293265.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 9,
-        "category": "Games",
-        "image": "https://images.pexels.com/photos/65169/pexels-photo-65169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 10,
-        "category": "Games",
-        "image": "https://images.pexels.com/photos/228963/pexels-photo-228963.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 11,
-        "category": "Games",
-        "image": "https://images.pexels.com/photos/269399/pexels-photo-269399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 12,
-        "category": "Games",
-        "image": "https://images.pexels.com/photos/262438/pexels-photo-262438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 13,
-        "category": "Games",
-        "image": "https://images.pexels.com/photos/220051/pexels-photo-220051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 14,
-        "category": "Games",
-        "image": "https://images.pexels.com/photos/34514/spot-runs-start-la.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 15,
-        "category": "Games",
-        "image": "https://images.pexels.com/photos/220053/pexels-photo-220053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 16,
-        "category": "Games",
-        "image": "https://images.pexels.com/photos/7551732/pexels-photo-7551732.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
+    
     {
         "id": 1,
         "category": "Fantasy",
@@ -819,66 +228,7 @@
         "category": "Fantasy",
         "image":"https://images.pexels.com/photos/3887990/pexels-photo-3887990.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
     },
-    {
-        "id": 5,
-        "category": "Fantasy",
-        "image": "https://images.pexels.com/photos/4037015/pexels-photo-4037015.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 6,
-        "category": "Fantasy",
-        "image": "https://images.pexels.com/photos/3831772/pexels-photo-3831772.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 7,
-        "category": "Fantasy",
-        "image": "https://images.pexels.com/photos/1854884/pexels-photo-1854884.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 8,
-        "category": "Fantasy",
-        "image": "https://images.pexels.com/photos/3259997/pexels-photo-3259997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 9,
-        "category": "Fantasy",
-        "image": "https://images.pexels.com/photos/3271679/pexels-photo-3271679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 10,
-        "category": "Fantasy",
-        "image": "https://images.pexels.com/photos/3526022/pexels-photo-3526022.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 11,
-        "category": "Fantasy",
-        "image": "https://images.pexels.com/photos/3810971/pexels-photo-3810971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 12,
-        "category": "Fantasy",
-        "image": "https://images.pexels.com/photos/3810900/pexels-photo-3810900.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 13,
-        "category": "Fantasy",
-        "image": "https://images.pexels.com/photos/3932857/pexels-photo-3932857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 14,
-        "category": "Fantasy",
-        "image": "https://images.pexels.com/photos/3758167/pexels-photo-3758167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 15,
-        "category": "Fantasy",
-        "image": "https://images.pexels.com/photos/62802/pexels-photo-62802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 16,
-        "category": "Fantasy",
-        "image": "https://images.pexels.com/photos/8390504/pexels-photo-8390504.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
+    
     {
         "id": 1,
         "category": "Flowers",
@@ -899,66 +249,7 @@
         "category": "Flowers",
         "image":"https://images.pexels.com/photos/60909/rose-yellow-flower-petals-60909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
-    {
-        "id": 5,
-        "category": "Flowers",
-        "image": "https://images.pexels.com/photos/617967/pexels-photo-617967.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": 6,
-        "category": "Flowers",
-        "image": "https://images.pexels.com/photos/2534523/pexels-photo-2534523.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": 7,
-        "category": "Flowers",
-        "image": "https://images.pexels.com/photos/289323/pexels-photo-289323.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": 8,
-        "category": "Flowers",
-        "image": "https://images.pexels.com/photos/1098520/pexels-photo-1098520.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": 9,
-        "category": "Flowers",
-        "image": "https://images.pexels.com/photos/3041109/pexels-photo-3041109.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": 10,
-        "category": "Flowers",
-        "image": "https://images.pexels.com/photos/14111/pexels-photo-14111.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": 11,
-        "category": "Flowers",
-        "image": "https://images.pexels.com/photos/56866/garden-rose-red-pink-56866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": 12,
-        "category": "Flowers",
-        "image": "https://images.pexels.com/photos/462118/pexels-photo-462118.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": 13,
-        "category": "Flowers",
-        "image": "https://images.pexels.com/photos/87452/flowers-background-butterflies-beautiful-87452.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": 14,
-        "category": "Flowers",
-        "image": "https://images.pexels.com/photos/460775/pexels-photo-460775.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": 15,
-        "category": "Flowers",
-        "image": "https://images.pexels.com/photos/1369068/pexels-photo-1369068.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-        "id": 16,
-        "category": "Flowers",
-        "image": "https://images.pexels.com/photos/906150/pexels-photo-906150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
+    
     {
         "id": 1,
         "category": "Inspirationl",
@@ -979,66 +270,7 @@
         "category": "Inspirationl",
         "image":"https://images.pexels.com/photos/945966/pexels-photo-945966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
-    {
-        "id": 5,
-        "category": "Inspirationl",
-        "image": "https://images.pexels.com/photos/4114791/pexels-photo-4114791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 6,
-        "category": "Inspirationl",
-        "image": "https://images.pexels.com/photos/6073599/pexels-photo-6073599.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 7,
-        "category": "Inspirationl",
-        "image": "https://images.pexels.com/photos/688668/pexels-photo-688668.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 8,
-        "category": "Inspirationl",
-        "image": "https://images.pexels.com/photos/256472/pexels-photo-256472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 9,
-        "category": "Inspirationl",
-        "image": "https://images.pexels.com/photos/262034/pexels-photo-262034.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 10,
-        "category": "Inspirationl",
-        "image": "https://images.pexels.com/photos/1434819/pexels-photo-1434819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 11,
-        "category": "Inspirationl",
-        "image": "https://images.pexels.com/photos/3927547/pexels-photo-3927547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 12,
-        "category": "Inspirationl",
-        "image": "https://images.pexels.com/photos/3771055/pexels-photo-3771055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 13,
-        "category": "Inspirationl",
-        "image": "https://images.pexels.com/photos/6842434/pexels-photo-6842434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 14,
-        "category": "Inspirationl",
-        "image": "https://images.pexels.com/photos/6787408/pexels-photo-6787408.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 15,
-        "category": "Inspirationl",
-        "image": "https://images.pexels.com/photos/3951827/pexels-photo-3951827.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 16,
-        "category": "Inspirationl",
-        "image": "https://images.pexels.com/photos/3769118/pexels-photo-3769118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
+    
     {
         "id": 1,
         "category": "Love",
@@ -1059,66 +291,7 @@
         "category": "Love",
         "image":"https://images.pexels.com/photos/809672/pexels-photo-809672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
-    {
-        "id": 5,
-        "category": "Love",
-        "image": "https://images.pexels.com/photos/3687981/pexels-photo-3687981.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 6,
-        "category": "Love",
-        "image": "https://images.pexels.com/photos/6798339/pexels-photo-6798339.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 7,
-        "category": "Love",
-        "image": "https://images.pexels.com/photos/704573/pexels-photo-704573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 8,
-        "category": "Love",
-        "image": "https://images.pexels.com/photos/810035/pexels-photo-810035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 9,
-        "category": "Love",
-        "image": "https://images.pexels.com/photos/3693393/pexels-photo-3693393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 10,
-        "category": "Love",
-        "image": "https://images.pexels.com/photos/3731876/pexels-photo-3731876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 11,
-        "category": "Love",
-        "image": "https://images.pexels.com/photos/6708944/pexels-photo-6708944.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 12,
-        "category": "Love",
-        "image": "https://images.pexels.com/photos/220051/pexels-photo-220051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 13,
-        "category": "Love",
-        "image": "https://images.pexels.com/photos/212261/pexels-photo-212261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 14,
-        "category": "Love",
-        "image": "https://images.pexels.com/photos/1884326/pexels-photo-1884326.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 15,
-        "category": "Love",
-        "image": "https://images.pexels.com/photos/613321/pexels-photo-613321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 16,
-        "category": "Love",
-        "image": "https://images.pexels.com/photos/2531611/pexels-photo-2531611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
+    
     {
         "id": 1,
         "category": "Movies",
@@ -1139,66 +312,7 @@
         "category": "Movies",
         "image":"https://images.pexels.com/photos/2507025/pexels-photo-2507025.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
     },
-    {
-        "id": 5,
-        "category": "Movies",
-        "image": "https://images.pexels.com/photos/157543/pexels-photo-157543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 6,
-        "category": "Movies",
-        "image": "https://images.pexels.com/photos/275977/pexels-photo-275977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 7,
-        "category": "Movies",
-        "image": "https://images.pexels.com/photos/3062541/pexels-photo-3062541.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 8,
-        "category": "Movies",
-        "image": "https://images.pexels.com/photos/243747/pexels-photo-243747.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 9,
-        "category": "Movies",
-        "image": "https://images.pexels.com/photos/1870438/pexels-photo-1870438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 10,
-        "category": "Movies",
-        "image": "https://images.pexels.com/photos/109669/pexels-photo-109669.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 11,
-        "category": "Movies",
-        "image": "https://images.pexels.com/photos/265685/pexels-photo-265685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 12,
-        "category": "Movies",
-        "image": "https://images.pexels.com/photos/458379/pexels-photo-458379.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 13,
-        "category": "Movies",
-        "image": "https://images.pexels.com/photos/5082567/pexels-photo-5082567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 14,
-        "category": "Movies",
-        "image": "https://images.pexels.com/photos/3921000/pexels-photo-3921000.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 15,
-        "category": "Movies",
-        "image": "https://images.pexels.com/photos/276015/pexels-photo-276015.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 16,
-        "category": "Movies",
-        "image": "https://images.pexels.com/photos/157541/pexels-photo-157541.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
+    
     {
         "id": 1,
         "category": "Military",
@@ -1218,65 +332,5 @@
         "id": 4,
         "category": "Military",
         "image":"https://images.pexels.com/photos/20258/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 5,
-        "category": "Military",
-        "image": "https://images.pexels.com/photos/38272/military-usa-marines-drill-38272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 6,
-        "category": "Military",
-        "image": "https://images.pexels.com/photos/76971/fighter-jet-fighter-aircraft-f-16-falcon-aircraft-76971.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 7,
-        "category": "Military",
-        "image": "https://images.pexels.com/photos/163478/war-desert-guns-gunshow-163478.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 8,
-        "category": "Military",
-        "image": "https://images.pexels.com/photos/236741/pexels-photo-236741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 9,
-        "category": "Military",
-        "image": "https://images.pexels.com/photos/886453/pexels-photo-886453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 10,
-        "category": "Military",
-        "image": "https://images.pexels.com/photos/163480/war-desert-guns-gunshow-163480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 11,
-        "category": "Military",
-        "image": "https://images.pexels.com/photos/90283/pexels-photo-90283.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 12,
-        "category": "Military",
-        "image": "https://images.pexels.com/photos/796481/pexels-photo-796481.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 13,
-        "category": "Military",
-        "image": "https://images.pexels.com/photos/3706647/pexels-photo-3706647.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 14,
-        "category": "Military",
-        "image": "https://images.pexels.com/photos/864987/pexels-photo-864987.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },
-    {
-        "id": 15,
-        "category": "Military",
-        "image": "https://images.pexels.com/photos/3678428/pexels-photo-3678428.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-        "id": 16,
-        "category": "Military",
-        "image": "https://images.pexels.com/photos/89113/pexels-photo-89113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }    
 ]
