@@ -349,6 +349,11 @@
         "image": "https://images.pexels.com/photos/3408810/pexels-photo-3408810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
+        "id": 4,
+        "category": "Nature",
+        "image":"https://images.pexels.com/photos/2948924/pexels-photo-2948924.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+    },
+    {
         "id": 1,
         "category": "Music",
         "image":"https://images.pexels.com/photos/6966/abstract-music-rock-bw.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
